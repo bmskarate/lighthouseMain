@@ -1,0 +1,42 @@
+
+## Use this file to document the commands and write the results you get.
+
+
+
+#### 1. Download the data from https://drive.google.com/open?id=1TNZiSaNmcDbZ7fglKY7lPhni3ucD5Qn3
+
+
+#### 2. How many rows does the dataset have? 
+3634468
+
+#### 3. Change the delimiter to ";"
+cut -d " " -f 1,2 cast.csv --output-delimiter='%' # I think this is wrong
+
+#### 4. Output the header into the separate file cast_header.csv and remove it from the data
+head cast.csv > cast_header.csv
+ 
+#### 5. How many movies did Pierce Brosnan play in?
+grep -R "Pierce Brosnan" cast.csv > pierce.csv
+wc -l pierce.csv  RETURNED 58
+
+#### 6. Were there more superman movies or batman movies?
+grep -R "Superman" cast.csv | wc -l    RETURNED 1347
+batman returned 1418
+
+#### 7. How many roles are in this database?
+head cast.csv | cut -d',' -f5 | uniq -c THIS SEEMED TO BE RIGHT?
+cut -d',' -f5 > cast_roles.csv
+sort cast_roles.csv | uniq -c | sort -bgr NOPE
+cut -d',' -f 2 cast_roles.csv | sort | uniq -c|wc -l YUP RETURNED 1520307
+
+#### 8. What is the most often played role?
+sort -k1 -n cast_roles.csv| tail
+
+  27 Tsune (Torajiro's aunt)
+  27 Umetaro (Hiroshi's boss)
+  30 Bit
+  33 Gene Autry
+
+
+#### 9. What is the most frequent movie name?
+
