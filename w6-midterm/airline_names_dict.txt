@@ -1,0 +1,10 @@
+{"AA":"AA: American Airlines Inc",
+"AS":"AS: Alaska Airlines Inc.",
+"B6":"B6: jetBlue Airways",
+"DL":"DL: Delta Air Lines Inc.",
+"F9":"F9: Frontier Airlines Inc.",
+"G4":"G4: Allegiant Air",
+"HA":"HA: Hawaiin Airlines Inc.",
+"NK":"NK: Spirit Air Lines",
+"UA":"UA: United Air Lines Inc.",
+"WN":"WN: Southwest Airlines Co."}
