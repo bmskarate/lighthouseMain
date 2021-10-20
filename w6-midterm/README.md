@@ -10,44 +10,23 @@ The goal of this project is to predict delays of flights in the first week of Ja
 ## [Predictions final CSV (broken link add final_predictions.csv later)](final_predictions.csv)
 
 ### ___________ Exploratory Analysis ____________
-![Total Flights](https://github.com/bmskarate/LH_midterm_project/blob/main/charting/total_flights_pie.png)
+![Weather Delays](https://github.com/bmskarate/LH_midterm_project/blob/main/charting/Weather_delay.png)
 
 
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
+[**Main EDA**](https://github.com/bmskarate/LH_midterm_project/blob/main/exploratory_analysis.ipynb)  
+[**Side Findings**](https://github.com/bmskarate/LH_midterm_project/blob/main/Exploratory_plotting.ipynb)  
 
 
 ### ___________ Data Engineering Notebooks ____________
   
   
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
+[**Flights Cleaning**](https://github.com/bmskarate/LH_midterm_project/blob/main/flights_cleaning.ipynb)   
 
-### ___________ Exploratory Analysis ____________
 
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
+### ___________ Modelling ____________
 
-### ___________ Exploratory Analysis ____________
-
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
-[**Insert name of file here**](file_name.csv)  
+[**Modelling Main**](https://github.com/bmskarate/LH_midterm_project/blob/main/modeling.ipynb)  
+  
 
 ### System requirements
 * Operating system * : Mac OS: Big Sur
