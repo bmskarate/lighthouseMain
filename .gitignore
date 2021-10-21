@@ -36,3 +36,31 @@ w5/w5d1/.ipynb_checkpoints/grid_search_challenge-checkpoint.ipynb
 w5/w5d4/creditcard.csv
 *.csv
 w6-midterm/LH_midterm_project/
+*.sav
+w6-midterm/online 2/modeling - exploratory, baselines, poor X (with jean).ipynb
+w6-midterm/online 2/model_2 - contains more feature engineering, model exploration.ipynb
+w6-midterm/Online Midterm/.ipynb_checkpoints/flights_prediction-checkpoint.ipynb
+w6-midterm/Online Midterm/.DS_Store
+w6-midterm/Online Midterm/flights_prediction.ipynb
+w6-midterm/online 2/xgboost.pickle
+w6-midterm/online 2/weather_data.txt
+w6-midterm/online 2/README.md
+w6-midterm/online 2/random_forest.pickle
+w6-midterm/online 2/presentation_guidelines.md
+w6-midterm/online 2/model.pickle
+w6-midterm/online 2/improvement.txt
+w6-midterm/online 2/final_test_data.ipynb
+w6-midterm/online 2/exploratory_analysis.ipynb
+w6-midterm/online 2/airline_names_dict.txt
+w6-midterm/online 2/airport_names_dict.txt
+w6-midterm/online 2/attempt_3 - xgboost, good results, bad X.ipynb
+w6-midterm/online 2/attempt_4-randomforest-Copy1.ipynb
+w6-midterm/online 2/attempt_4-randomforest.ipynb
+w6-midterm/online 2/attempt_4-xgbreg-Copy1.ipynb
+w6-midterm/online 2/attempt_4-xgbreg.ipynb
+w6-midterm/online 2/attempt_5-xgbreg.ipynb
+w6-midterm/online 2/data_description.md
+w6-midterm/online 2/.ipynb_checkpoints/modeling - exploratory, baselines, poor X (with jean)-checkpoint.ipynb
+w6-midterm/online 2/.ipynb_checkpoints/exploratory_analysis-checkpoint.ipynb
+w6-midterm/.ipynb_checkpoints/Thursday_last_shot-checkpoint.ipynb
+w6-midterm/Midterm_presentation.key
