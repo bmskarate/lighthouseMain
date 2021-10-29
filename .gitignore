@@ -64,3 +64,7 @@ w6-midterm/online 2/.ipynb_checkpoints/modeling - exploratory, baselines, poor X
 w6-midterm/online 2/.ipynb_checkpoints/exploratory_analysis-checkpoint.ipynb
 w6-midterm/.ipynb_checkpoints/Thursday_last_shot-checkpoint.ipynb
 w6-midterm/Midterm_presentation.key
+*.pickle
+*.can
+*.pkl
+w7/w7d5/MiniprojectW7D5.key
