@@ -1,4 +1,7 @@
 from simple_facerec import SimpleFacerec
+import cv2
+import face_recognition
+
 sfr = SimpleFacerec()
 sfr.load_encoding_images('images/')
 
